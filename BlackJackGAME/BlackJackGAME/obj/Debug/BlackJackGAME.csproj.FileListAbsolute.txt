@@ -1,0 +1,11 @@
+C:\Users\kensyu\source\repos\BlackJackGAME\BlackJackGAME\bin\Debug\BlackJackGAME.exe.config
+C:\Users\kensyu\source\repos\BlackJackGAME\BlackJackGAME\bin\Debug\BlackJackGAME.exe
+C:\Users\kensyu\source\repos\BlackJackGAME\BlackJackGAME\bin\Debug\BlackJackGAME.pdb
+C:\Users\kensyu\source\repos\BlackJackGAME\BlackJackGAME\obj\Debug\BlackJackGAME.csproj.AssemblyReference.cache
+C:\Users\kensyu\source\repos\BlackJackGAME\BlackJackGAME\obj\Debug\BlackJackGAME.BattleScreen.resources
+C:\Users\kensyu\source\repos\BlackJackGAME\BlackJackGAME\obj\Debug\BlackJackGAME.TitleScreen.resources
+C:\Users\kensyu\source\repos\BlackJackGAME\BlackJackGAME\obj\Debug\BlackJackGAME.Properties.Resources.resources
+C:\Users\kensyu\source\repos\BlackJackGAME\BlackJackGAME\obj\Debug\BlackJackGAME.csproj.GenerateResource.cache
+C:\Users\kensyu\source\repos\BlackJackGAME\BlackJackGAME\obj\Debug\BlackJackGAME.csproj.CoreCompileInputs.cache
+C:\Users\kensyu\source\repos\BlackJackGAME\BlackJackGAME\obj\Debug\BlackJackGAME.exe
+C:\Users\kensyu\source\repos\BlackJackGAME\BlackJackGAME\obj\Debug\BlackJackGAME.pdb
